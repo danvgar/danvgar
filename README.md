@@ -1,6 +1,8 @@
 ### Hi there, I'm [Daniel](#) 👋🏽
 
-I'm currently learning full stack web development through [#100devs](https://leonnoel.com/100devs/)! Look out for more on this page soon, or reach out now and let's chat!
+Currently: Learning full stack web development through [#100devs](https://leonnoel.com/100devs/)! 
+
+Look out for more on this page soon, or reach out now and let's chat!
 
 <!--
 **danvgar/danvgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
