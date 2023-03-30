@@ -1,4 +1,4 @@
-### Hi there, I'm [Daniel](#) 👋🏽
+### My name is Daniel Garcia. I’m a software engineer based out of Los Angeles, CA, specializing in web development and creating software tools to make everyday life easier for everyday people!
 
 Currently: Learning full stack web development through [#100devs](https://leonnoel.com/100devs/)! 
 
