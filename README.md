@@ -1,7 +1,8 @@
-### My name is Daniel Garcia. 
-#### I’m a software engineer based out of Los Angeles, CA, specializing in web development and creating software tools to make everyday life easier for everyday people!
+### My name is Daniel Garcia.
+I’m a **software engineer** based out of **Los Angeles, CA**, specializing in web development and creating software tools to make everyday life easier for everyday people!
 
-Currently: Learning full stack web development through [#100devs](https://leonnoel.com/100devs/)! 
+- 🌱 I'm currently learning full stack web development through [#100devs](https://leonnoel.com/100devs/)! 
+- ⚡ I'm excited to start learning [Three.js](https://threejs.org/) and [WebGL](https://get.webgl.org/).
 
 Look out for more on this page soon, or reach out now and let's chat!
 
