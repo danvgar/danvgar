@@ -8,9 +8,9 @@ Look out for more on this page soon, or reach out now and let's chat!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvgar&show_icons=true&locale=en&layout=compact" alt="danvgar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danvgar&show_icons=true&locale=en" alt="danvgar" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danvgar&show_icons=true&locale=en" alt="danvgar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danvgar&" alt="danvgar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danvgar&" alt="danvgar" /></p> -->
 
 <!--
 **danvgar/danvgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
