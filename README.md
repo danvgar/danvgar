@@ -2,9 +2,9 @@
 ## My name is Daniel Garcia.
 I’m a **full stack software engineer** based in **Los Angeles, CA**. I specialize in web development and creating human-centered solutions for human-centered people.
 
-- 👨‍💻 I'm creating responsive and dynamic web experiences for small-businesses and creative professionals.
+- 👨‍💻 I'm creating responsive and dynamic web experiences for small- and medium-sized businesses and creative professionals.
 - ☕️ I'm always open to coffee chats! Give me a shout!
-- ⚡ I'm excited to start digging into [Three.js](https://threejs.org/) and [WebGL](https://get.webgl.org/).
+- ⚡ I'm excited to start digging into [Three.js](https://threejs.org/), [WebGL](https://get.webgl.org/), and [Spline](https://spline.design/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvgar&show_icons=true&locale=en&layout=compact" alt="danvgar" /></p>
 
