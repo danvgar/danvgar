@@ -6,11 +6,10 @@ I’m a **full stack software engineer** based in **Los Angeles, CA**. I special
 - ☕️ I'm always open to coffee chats! Give me a shout!
 - ⚡ I'm excited to start digging into [Three.js](https://threejs.org/), [WebGL](https://get.webgl.org/), and [Spline](https://spline.design/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvgar&show_icons=true&locale=en&layout=compact" alt="danvgar" /></p>
-
-<br><br>
-
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danvgar&theme=dark" alt="GitHub Streak" /></a></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvgar&show_icons=true&locale=en&layout=compact" alt="danvgar" />
+  <img src="https://streak-stats.demolab.com?user=danvgar&theme=dark" alt="GitHub Streak" />
+</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danvgar&show_icons=true&locale=en" alt="danvgar" /></p>
 
