@@ -8,7 +8,7 @@ I’m a **full stack software engineer** based in **Los Angeles, CA**. I special
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvgar&show_icons=true&locale=en&layout=compact" alt="danvgar" /></p>
 
-<br /><br />
+<br><br>
 
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danvgar&theme=dark" alt="GitHub Streak" /></a></p>
 
