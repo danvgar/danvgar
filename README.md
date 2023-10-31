@@ -1,5 +1,5 @@
-## You found me! My name is Daniel Garcia.
-I’m a **full stack software engineer** based in **Los Angeles, CA**. I specialize in web development and creating human-centered solutions for human-centered people.
+# You found me! 
+**My name is Daniel Garcia.** I’m a **full stack software engineer** based in **Los Angeles, CA**. I specialize in web development and creating human-centered solutions for human-centered people.
 
 - 👨‍💻 I'm creating responsive and dynamic web products for small- and medium-sized businesses and creative professionals.
 - ☕️ I'm always open to coffee chats! Give me a shout!
