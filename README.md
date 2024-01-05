@@ -3,9 +3,8 @@
 # You found me! 
 **My name is Daniel Garcia.** I’m a **full stack software engineer** based in **Los Angeles, CA**.
 
-- 👨‍💻 I'm building responsive and dynamic websites and web apps for creative professionals and SMB in my community at [Shy Wolf](https://shywolf.co).
-- 🏢 Previously a Senior MEP Engineer 
-- ✊ I volunteer as a Full Stack Engineer with [Hack for LA](https://www.hackforla.org/)
+- 👨‍💻 I'm building responsive and dynamic websites and web apps for creative professionals and SMB in my community at @ [Shy Wolf](https://shywolf.co) and @ [Hack for LA](https://www.hackforla.org/)
+- 🏢 Previously Senior Mechanical Engineer @ [Buro Happold]([url](https://www.burohappold.com/)) and Project Manager @ [NYTimes](https://www.nytimes.com/)
 - ☕️ I'm always open to coffee chats! Give me a shout!
 - ⚡ I'm excited to start digging into [Three.js](https://threejs.org/), [WebGL](https://get.webgl.org/), and [Spline](https://spline.design/)
 
