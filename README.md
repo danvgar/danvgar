@@ -9,8 +9,8 @@
 - ⚡ I'm excited to start digging into [Three.js](https://threejs.org/), [WebGL](https://get.webgl.org/), and [Spline](https://spline.design/)
 
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=4&theme=catppuccin_latte&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=react%2Creact%2C61DAFB%3Bnextdotjs%2Cnext.js%2C000000%3Btypescript%2Ctypescript%2C3178C6%3B&line2=nodedotjs%2Cnode.js%2C339933%3Bexpress%2Cexpress%2C000000%3Btailwindcss%2Ctailwind%2C06B6D4%3B&line3=postgresql%2Cpostgresql%2C4169E1%3Bmongodb%2Cmongodb%2C47A248%3Bbootstrap%2Cbootstrap%2C7952B3%3B&line4=html5%2Chtml5%2CE34F26%3Bcss3%2Ccss3%2C1572B6%3Bjavascript%2Cjavascript%2CF7DF1E%3B" alt="My Tech Stack" /><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvgar&show_icons=true&locale=en&layout=compact" alt="danvgar" /></a><br>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=4&theme=catppuccin_latte&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=react%2Creact%2C61DAFB%3Bnextdotjs%2Cnext.js%2C000000%3Btypescript%2Ctypescript%2C3178C6%3B&line2=nodedotjs%2Cnode.js%2C339933%3Bexpress%2Cexpress%2C000000%3Btailwindcss%2Ctailwind%2C06B6D4%3B&line3=postgresql%2Cpostgresql%2C4169E1%3Bmongodb%2Cmongodb%2C47A248%3Bbootstrap%2Cbootstrap%2C7952B3%3B&line4=html5%2Chtml5%2CE34F26%3Bcss3%2Ccss3%2C1572B6%3Bjavascript%2Cjavascript%2CF7DF1E%3B" alt="My Tech Stack" /><br><br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvgar&show_icons=true&locale=en&layout=compact" alt="danvgar" /></a><br><br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danvgar" alt="GitHub Streak" /></a>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danvgar&show_icons=true&locale=en" alt="danvgar" /></p>
