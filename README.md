@@ -15,7 +15,7 @@
   </a>
   </p>
 
-<p align="center"></p>
+<p align="center" style="text-align: center;"></p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danvgar&show_icons=true&locale=en&layout=compact" alt="danvgar's GitHub Stats" />
   </a>
