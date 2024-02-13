@@ -4,7 +4,7 @@
 **My name is Daniel Garcia.** I’m a **full stack software engineer** based in **Los Angeles, CA**.
 
 - 👨‍💻 I build responsive websites and full stack web apps for my community at @**[shywolfco](https://shywolf.co)** and @**[hackforla](https://www.hackforla.org/)**.
-- 🏢 Previously Sr MechE @**[burohappold](https://www.burohappold.com/)**, as well as @**[nytimes](https://www.nytimes.com/)**, @**[columbia](https://www.columbia.edu/)**, @**[amnh](https://www.amnh.org/)**, and briefly @**[chuckecheese](https://www.chuckecheese.com/)** as the guy in the mouse costume. 🧀
+- 🏢 Previously Sr MechE @**[burohappold](https://www.burohappold.com/)**, as well as @**[nytimes](https://www.nytimes.com/)**, @**[columbia](https://www.columbia.edu/)**, @**[amnh](https://www.amnh.org/)**, and briefly @**[chuckecheese](https://youtu.be/3v6y2pY1pZ0)** as the guy in the mouse costume. 🧀
 - ⚡ I'm excited to start digging into [Three.js](https://threejs.org/), [WebGL](https://get.webgl.org/), and [Spline](https://spline.design/).
 - ☕️ I'm always open to coffee chats! Give me a shout!
 
