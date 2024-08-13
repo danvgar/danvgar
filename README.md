@@ -4,6 +4,7 @@
 **My name is Daniel Garcia.** I’m a **software engineer** based in **Los Angeles, CA**, specializing in **full stack web development**.
 
 - 👨‍💻 I build responsive websites and full stack web apps for my community at @**[shywolfco](https://shywolf.co)** and @**[hackforla](https://www.hackforla.org/)**.
+- 👷‍♂️ IRL I design complex and unique buildings in the built environment as an MEP engineer. 
 - 🏢 Previously @**[burohappold](https://www.burohappold.com/)**, @**[nytimes](https://www.nytimes.com/)**, @**[columbia](https://www.columbia.edu/)**, @**[amnh](https://www.amnh.org/)**, and briefly @**[chuckecheese](https://youtu.be/3v6y2pY1pZ0)** as the guy in the mouse costume.
 - ☕️ I'm always open to coffee chats! Give me a shout!
 
